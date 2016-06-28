@@ -1,0 +1,42 @@
+Looking For Group
+     The application is to take the place of having to walk into a game store and look for the cork board at games that are being run. Cork boards are not always upto date with the current information, and are dependant on the people in the game or the people
+     in the store to update them. With an application to stream line this process, it will take away the akwardness of seeing a 5 month year old ad of looking for players when that campaign finished last week. 
+
+     What I would like to do with this application is have a register/login for users, and the users to be able to say I'm a GM and post a digital ad on the cork board for players to see and when the game is full it will disapeer from the game browsers.
+     I would like for users to be able to...
+          Sign up to the service
+	  Be able to login to the service
+          Suspend their accounts (soft delete)
+          Update their data
+          Choose if they're a DM
+          If they are a gm be able to post something saying I'm running a game
+	       There needs to be a player cap set by the GM
+               When the player cap is reached the game is not able to be viewed or selected.
+               If a spot becomes available, it can be accessed again
+               The GM needs to specify what edition and what game
+               The GM has the ability to remove players from the group
+               The GM has the ability to end the game.
+          Players will be able to search for games
+	  Players will be able to join games
+          Players will be able to leave games.
+
+     Monetize
+           My first thought is a small monthly subscription of $5.00.
+           Subscribed users benefits...
+                GM's are able to set up more than one game.
+                Players can be involved in more than one game.
+                Account badges.
+                
+     Languages
+          PHP
+          HTML5
+          SASS/CSS
+          Javascript/jQuery
+
+
+     Features I'd like to incorporate
+          Live character sheets
+          Abiltiy for the DM to interact with those sheets
+          A chat system for each game being run.
+          User accounts to incorporate geolocation so someone from the west coast isn't signing up for an in person game on that's being ran on the east coast.
+          
